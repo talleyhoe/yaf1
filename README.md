@@ -1,7 +1,7 @@
 # yaf1
 Yet another f1 viewer. 
 
-**Goal**
+### Goal
 This should allow anyone to scrape all of the f1 streams, and hopefully provide
 an interface to launch a player of choice. 
 
